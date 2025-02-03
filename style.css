@@ -1,0 +1,12 @@
+body{
+    background-color: #cccccc;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.newsitem{
+    background-color: rgb(255, 235, 235);
+    width:300px ;
+    margin-top: 5px;
+    height: 400px;
+}
