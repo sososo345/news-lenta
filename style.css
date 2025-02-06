@@ -8,5 +8,10 @@ body{
     background-color: rgb(255, 235, 235);
     width:300px ;
     margin-top: 5px;
-    height: 400px;
+    height: 310px;
+}
+.newsimg{
+    height: 90%;
+    width:300px ;
+    object-fit: cover;
 }
