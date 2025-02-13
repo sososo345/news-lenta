@@ -1,0 +1,21 @@
+body{
+    background-color: #cccccc;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.newsitem{
+    background-color: rgb(255, 235, 235);
+    width:300px ;
+    margin-top: 50px;
+    height: 310px;
+}
+.newsimg{
+    height: 90%;
+    width:100% ;
+    object-fit: cover;
+}
+.newsiimg{
+    width: 100%;
+    height:200px;
+}
